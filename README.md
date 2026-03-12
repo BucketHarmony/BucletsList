@@ -6,5 +6,7 @@ Project tracker and knowledge base.
 
 | Project | Status | Next Action |
 |---------|--------|-------------|
-| *(none yet)* | | |
-Verified repo access on 2026-03-12T17:44:36Z
+| [Majordomo](projects/majordomo.md) | Active | Define core agent architecture |
+| [Kombucha](projects/kombucha.md) | Active | Define primary use case and form factor |
+| [The Commons](projects/the-commons.md) | Active | Nail down core game loop and win/loss conditions |
+| [The Loom](projects/the-loom.md) | Active | Define MVP feature set and target community |
