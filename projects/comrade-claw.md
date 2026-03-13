@@ -1,5 +1,6 @@
 # Comrade Claw
 
+**Repo:** https://github.com/BucketHarmony/ComradeClaw
 **Status:** Active
 **Started:** 2026-03-11
 **Last updated:** 2026-03-12
